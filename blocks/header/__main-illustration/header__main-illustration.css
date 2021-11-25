@@ -1,0 +1,12 @@
+.header__main-illustration {
+    position: absolute;
+    width: 765px;
+    height: 608px;
+    right: 0px;
+    bottom: 0px;
+    z-index: 1;
+    background-image: url('../boy-and-dog.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: bottom right;
+ }
