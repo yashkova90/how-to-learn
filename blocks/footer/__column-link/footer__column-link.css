@@ -1,4 +1,4 @@
-.footer__column_link {
+.footer__column-link {
     font-size: 16px;
     line-height: 18px;
     display: flex;
@@ -8,6 +8,6 @@
     text-decoration: none;
  }
 
- .footer__column_link:hover {
+ .footer__column-link:hover {
      opacity: 0.75;
  }
