@@ -4,7 +4,7 @@
      bottom: -210px;
      width: 995px;
      height: 1006px;
-     background-image: url('../triangle.svg');
+     background-image: url('./triangle.svg');
      background-size: 100%;
      background-repeat: no-repeat;
 }
