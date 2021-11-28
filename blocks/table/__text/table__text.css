@@ -2,9 +2,8 @@
     font-size: 18px; 
     text-align: center;
     line-height: 120%;
-    margin-bottom: 20px;
-  }
-
-  .table__text:last-child { 
+    margin: 0px 0px 20px 0px;
+}
+.table__text:last-child { 
     margin-bottom: 0px;
 }
