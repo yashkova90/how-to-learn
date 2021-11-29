@@ -2,4 +2,7 @@
     background-color: #fff;
     color: #000;
     font-family: 'Inter', 'Arial', sans-serif;
+    margin: 0px auto;
+    min-width: 1100px;
+    max-width: 1600px;
  }
